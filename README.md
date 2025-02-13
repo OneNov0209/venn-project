@@ -213,8 +213,8 @@ node index.js
 ```
 **Output jika berhasil:**
 ```sh
-âœ… Transaksi berhasil dikirim, hash: 0xe186f5fc...
-ðŸŽ‰ Transaksi berhasil dikonfirmasi!
+✅ Transaksi berhasil dikirim, hash: 0xe186f5fc...
+✅ Transaksi berhasil dikonfirmasi!
 ```
 
 ---
